@@ -1,11 +1,41 @@
-- 👋 Hi, I’m Piyush raj
-- 👀 I’m interested in coding,cricket,discovering new things
-- 🌱 I’m currently working on machie learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 you can reach me through my gmail piyushraj100101@gmail.com
--
+👋 Hi, I’m Piyush Raj
 
-<!---
-piyush1418/piyush1418 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Aspiring Data Analyst | Machine Learning Enthusiast | Problem Solver
+
+👀 About Me
+
+💻 Passionate about data analytics, coding, and machine learning
+
+🏏 Big fan of cricket and love discovering new things
+
+🌱 Currently enhancing my skills in Machine Learning & Data Visualization
+
+🤝 Open to collaborating on data analysis projects, dashboards, and ML models
+
+📫 Reach me at: piyushraj100101@gmail.com
+
+🛠️ Skills & Tools
+
+Programming & Analysis
+
+Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+
+SQL (MySQL, PostgreSQL)
+
+Excel (Advanced Functions, Pivot Tables)
+
+Visualization & BI
+
+Power BI
+
+Tableau
+
+Matplotlib & Seaborn
+
+Other Tools
+
+Jupyter Notebook
+
+Git/GitHub
+
+Machine Learning (Regression, Classification, Clustering, Forecasting)
