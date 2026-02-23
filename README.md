@@ -1,52 +1,93 @@
 <h1 align="center">Hi 👋, I'm Piyush Raj</h1>
-<h3 align="center">💻 Computer Science Student | 📊 Aspiring Data Analyst</h3>
+<h3 align="center">💻 Aspiring Full Stack Developer | 🤖 AI/ML Enthusiast</h3>
 
 ---
 
-🧠 Computer Science Student  
-📊 A Data Analyst with highly recommended skills  
-🔭 Currently open for working opportunities  
+## 💫 About Me:
+
+🚀 Aspiring **Full Stack Developer** and **AI/ML Enthusiast** passionate about building scalable web applications, intelligent systems, and user-centric digital products.  
+💡 I enjoy transforming ideas into real-world solutions using modern technologies.
+
+🔭 Currently working on:
+- AI SaaS Applications  
+- Machine Learning Models  
+- NLP & Image Processing Projects  
+- Backend Architecture & APIs  
+- Cloud Deployment & Scalable Systems  
+
+🌱 Continuously learning and improving in:
+- System Design  
+- Advanced Machine Learning  
+- Production-level Deployment  
+- Performance Optimization  
 
 ---
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/piyush-raj-ab2260260)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:https://github.com/piyush1418)
+<p align="left">
+<a href="https://instagram.com/YOUR_USERNAME" target="blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/piyush-raj-ab2260260/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:piyushraj100101@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 ---
 
 ## 💻 Tech Stack:
 
-![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/numpy-blue?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-orange?style=for-the-badge&logo=scikitlearn)
-![Power BI](https://img.shields.io/badge/powerbi-yellow?style=for-the-badge&logo=powerbi)
-![Streamlit](https://img.shields.io/badge/streamlit-red?style=for-the-badge&logo=streamlit)
-![Keras](https://img.shields.io/badge/keras-red?style=for-the-badge&logo=keras)
-![PyTorch](https://img.shields.io/badge/pytorch-red?style=for-the-badge&logo=pytorch)
+### 👨‍💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 📊 Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![PyTorch](https://img.shields.io/badge/PyTorch-E34A86?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats:
+## 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyyush1418&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush1418&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=piyush1418&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush1418&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Most Used Languages:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+## ✨ Quote I Believe In:
+> "Build. Break. Learn. Repeat."
 
 ---
 
-⭐️ From [piyush1418](https://github.com/piyush1418)
+## 📫 Let's Connect!
+I'm always open to collaboration, internships, and exciting tech discussions 🚀
