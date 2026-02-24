@@ -34,6 +34,26 @@
 
 ---
 
+## 🧠 Problem Solving (LeetCode)
+
+<p align="center">
+<a href="https://leetcode.com/Piyush1817/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+</p>
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Piyush1817?theme=dark&font=Poppins&ext=heatmap" />
+</p>
+
+<p align="center">
+<img src="https://leetcode-stats.vercel.app/api?username=Piyush1817&theme=dark" />
+</p>
+
+📌 I actively practice **Data Structures & Algorithms** to strengthen problem-solving and write optimized, production-quality code.
+
+---
+
 ## 🌐 Socials:
 
 <p align="left">
@@ -81,13 +101,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
 ![PyTorch](https://img.shields.io/badge/PyTorch-E34A86?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=matplotlib\&logoColor=black)
-
-### 🎨 Design Tools
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge\&logo=adobe\&logoColor=white)
 
 ---
 
@@ -104,14 +117,6 @@
 
 ---
 
-## 🏆 Achievements & Activity
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=piyush1418&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## ✨ Quote I Believe In:
 
 > "Build. Break. Learn. Repeat."
@@ -122,12 +127,10 @@
 
 I'm always open to collaboration, internships, and exciting tech discussions 🚀
 
----
-
 <details>
 <summary>⚡ Fun Fact (Click to Expand)</summary>
 
-I love exploring how **AI + Web Development** can merge to create smarter applications that solve real-world problems.
+I love exploring how **AI + Web Development** can merge to create smarter applications.
 
 </details>
 
