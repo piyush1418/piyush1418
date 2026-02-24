@@ -1,25 +1,36 @@
 <h1 align="center">Hi 👋, I'm Piyush Raj</h1>
-<h3 align="center">💻 Aspiring Full Stack Developer | 🤖 AI/ML Enthusiast</h3>
+<h3 align="center">💻 Aspiring Software Developer | 🤖 AI/ML Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Building+AI+%2B+Full+Stack+Projects;Always+Learning+New+Things+🚀;Turning+Ideas+Into+Reality" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=piyush1418&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/piyush1418?label=Followers&style=social" />
+</p>
 
 ---
 
 ## 💫 About Me:
 
-🚀 Aspiring **Full Stack Developer** and **AI/ML Enthusiast** passionate about building scalable web applications, intelligent systems, and user-centric digital products.  
+🚀 Aspiring **Full Stack Developer** and **AI/ML Enthusiast** passionate about building scalable web applications, intelligent systems, and user-centric digital products.
 💡 I enjoy transforming ideas into real-world solutions using modern technologies.
 
 🔭 Currently working on:
-- AI SaaS Applications  
-- Machine Learning Models  
-- NLP & Image Processing Projects  
-- Backend Architecture & APIs  
-- Cloud Deployment & Scalable Systems  
+
+* AI SaaS Applications
+* Machine Learning Models
+* NLP & Image Processing Projects
+* Backend Architecture & APIs
+* Cloud Deployment & Scalable Systems
 
 🌱 Continuously learning and improving in:
-- System Design  
-- Advanced Machine Learning  
-- Production-level Deployment  
-- Performance Optimization  
+
+* System Design
+* Advanced Machine Learning
+* Production-level Deployment
+* Performance Optimization
 
 ---
 
@@ -44,34 +55,39 @@
 ## 💻 Tech Stack:
 
 ### 👨‍💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cpp\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=yellow)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
 ### 📊 Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![PyTorch](https://img.shields.io/badge/PyTorch-E34A86?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![PyTorch](https://img.shields.io/badge/PyTorch-E34A86?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=matplotlib\&logoColor=black)
 
 ### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge\&logo=adobe\&logoColor=white)
 
 ---
 
@@ -82,12 +98,41 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush1418&theme=tokyonight" />
 </p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush1418&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 Achievements & Activity
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=piyush1418&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
 ---
 
 ## ✨ Quote I Believe In:
+
 > "Build. Break. Learn. Repeat."
 
 ---
 
 ## 📫 Let's Connect!
+
 I'm always open to collaboration, internships, and exciting tech discussions 🚀
+
+---
+
+<details>
+<summary>⚡ Fun Fact (Click to Expand)</summary>
+
+I love exploring how **AI + Web Development** can merge to create smarter applications that solve real-world problems.
+
+</details>
+
+---
+
+<p align="center">
+  ⭐ From <b>Piyush Raj</b> — Always Learning, Always Building.
+</p>
